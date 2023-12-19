@@ -1,0 +1,6 @@
+photo1 = "https://cloud.mail.ru/public/pWMK/yYpfiA7zv"
+photo2 = "https://cloud.mail.ru/public/sVpS/7yJRiKoZp"
+photo3 = "https://cloud.mail.ru/public/8WSz/W5TfeMc1U"
+photo4 = "https://cloud.mail.ru/public/5A2y/nvqmVyRsU"
+photo5 = "https://cloud.mail.ru/public/Piwx/UnNuzRMfQ"
+photo6 = "https://cloud.mail.ru/public/8WSz/W5TfeMc1U"
