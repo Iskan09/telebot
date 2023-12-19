@@ -9,7 +9,7 @@ FORTH_QUESTION,
 FIFTH_QUESTION,
 SIXTH_QUESTION
 )
-bot = telebot.TeleBot(token="6553315261:AAEF4XgfDKBW46LTuwZUA6wXaKcQVifYGdY")
+bot = telebot.TeleBot(token="")
 
 all_right = ""
 
