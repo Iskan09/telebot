@@ -1,6 +1,4 @@
 import telebot
-import types
-import time
 from photos import *
 from texts import *
 from buttons import (
